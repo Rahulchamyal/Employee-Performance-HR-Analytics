@@ -71,7 +71,7 @@ Impact of Age on Employee Performance
 
 Performance Rating of Employees from the Previous Year
 Relationship between Previous Year Rating and Current Performance
-12. Length of Service
 
+12. Length of Service
 Duration of Employment with the Company
 Employee Performance Based on Tenure
