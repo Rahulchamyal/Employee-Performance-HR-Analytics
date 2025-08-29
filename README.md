@@ -1,0 +1,3 @@
+employee performance for HR analytics📊📈
+
+employee performance for HR analytics can provide valuable insights to organizations in terms of employee engagement, productivity, and overall organizational effectiveness. HR analytics involves using data to make informed decisions about human resources and employee-related matters. Here are some key aspects to consider when analyzing employee performance for HR analytics:
